@@ -6,3 +6,4 @@
 - [Fortune 500 Lists (1955-2018)](https://github.com/cmusam/fortune500)
 - [MIT Election Data](https://electionlab.mit.edu/data)
 - [County Presidential Election Returns 2000-2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
+- [US County Demographics Data by Year](https://github.com/rwright88/counties)
