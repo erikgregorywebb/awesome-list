@@ -7,3 +7,4 @@
 - [MIT Election Data](https://electionlab.mit.edu/data)
 - [County Presidential Election Returns 2000-2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
 - [US County Demographics Data by Year](https://github.com/rwright88/counties)
+- [Wikipedia Page Statistics](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&start=2016-02&end=2019-09&pages=Goldman_Sachs|UBS|Bank_of_America|Morgan_Stanley|JPMorgan_Chase|Credit_Suisse|Citigroup|Deutsche_Bank|Wells_Fargo)
