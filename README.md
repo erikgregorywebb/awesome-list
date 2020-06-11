@@ -9,6 +9,7 @@
 - [US County Demographics Data by Year](https://github.com/rwright88/counties)
 - [Wikipedia Page Statistics](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&start=2016-02&end=2019-09&pages=Goldman_Sachs|UBS|Bank_of_America|Morgan_Stanley|JPMorgan_Chase|Credit_Suisse|Citigroup|Deutsche_Bank|Wells_Fargo)
 - [NFL Play-by-Play](https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play/data/master/teams)
+- [GDP Metrics by State](https://www.bea.gov/data/gdp/gdp-state)
 
 ## Visualizations
 
