@@ -14,6 +14,8 @@
 - [Apple Mobility Trends](https://www.apple.com/covid19/mobility)
 - [The Ultimate Dataset Library for Machine Learning | Lionbridge AI](https://lionbridge.ai/datasets/ultimate-dataset-aggregator-for-machine-learning/)
 - [US State Migration Flows](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
+- [Supreme Court Cases](https://github.com/EricWiener/supreme-court-cases)
+- [10M+ Film/TV Reviews](https://components.one/datasets/film-reviews-208000-critic-reviews-and-10-7-million-user-reviews/)
 
 ## Visualizations
 
@@ -23,6 +25,7 @@
 - [US County Migration Flows](https://vannizhang.github.io/migration_flow_map/#)
 - [FT Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 - [Visual Vocabulary: Tableau Edition](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3Aembed=y&%3Adisplay_count=yes&publish=yes&%3AshowVizHome=no)
+- [Political Party Demographics](https://www.people-press.org/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/)
 
 ## Courses & Tutorials
 
@@ -33,3 +36,7 @@
 
 - [Access YouTube from R](https://trello.com/c/OZjm6l4u/94-access-youtube-from-r)
 - [Google Trends (gtrendsR)](https://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdf)
+
+## APIs
+
+- [News API](https://newsapi.org/)
