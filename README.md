@@ -17,3 +17,5 @@
 - [Flood Explorer (Chris Edwards)](https://chris3edwards3.github.io/reactapp-floodexplorer/) 
 - [Twitter "Average Happiness"](https://hedonometer.org)
 - [US County Migration Flows](https://vannizhang.github.io/migration_flow_map/#)
+- [FT Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+- [Visual Vocabulary: Tableau Edition](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3Aembed=y&%3Adisplay_count=yes&publish=yes&%3AshowVizHome=no)
