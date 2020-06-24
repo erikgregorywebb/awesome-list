@@ -40,3 +40,4 @@
 ## APIs
 
 - [News API](https://newsapi.org/)
+- [Pokémon TCG Developers](https://pokemontcg.io/)
