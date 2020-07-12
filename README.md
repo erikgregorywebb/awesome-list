@@ -16,6 +16,9 @@
 - [US State Migration Flows](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html)
 - [Supreme Court Cases](https://github.com/EricWiener/supreme-court-cases)
 - [10M+ Film/TV Reviews](https://components.one/datasets/film-reviews-208000-critic-reviews-and-10-7-million-user-reviews/)
+- [2020 SBA Paycheck Protection Program Loans](https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data)
+- [Open Compensation Data | Levels.fyi](https://www.levels.fyi/)
+
 
 ## Visualizations
 
