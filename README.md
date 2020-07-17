@@ -18,6 +18,7 @@
 - [10M+ Film/TV Reviews](https://components.one/datasets/film-reviews-208000-critic-reviews-and-10-7-million-user-reviews/)
 - [2020 SBA Paycheck Protection Program Loans](https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data)
 - [Open Compensation Data | Levels.fyi](https://www.levels.fyi/)
+- [Data (Science) Job Postings](https://www.reddit.com/r/datasets/comments/hrut53/data_science_jobs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 
 ## Visualizations
@@ -45,3 +46,7 @@
 
 - [News API](https://newsapi.org/)
 - [Pokémon TCG Developers](https://pokemontcg.io/)
+
+## Other Resources
+
+- [Free Icons - Noun Project](https://thenounproject.com/)
