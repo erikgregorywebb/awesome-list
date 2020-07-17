@@ -34,6 +34,7 @@
 
 - [Data Visualization by Dr. Andrew Heiss](https://datavizm20.classes.andrewheiss.com/content/)
 - [blogdown Tutorial](https://bookdown.org/yihui/blogdown/)
+- [Tableau DS Certification](https://www.udemy.com/course/tableau-desktop-specialist-certification/)
 
 ## Packages & Libraries
 
