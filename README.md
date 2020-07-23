@@ -46,7 +46,7 @@
 
 - [News API](https://newsapi.org/)
 - [Pokémon TCG Developers](https://pokemontcg.io/)
-- [List of Real Estate APIs])(https://gist.github.com/patpohler/36c731113fd113418c0806f62cbb9e30)
+- [List of Real Estate APIs](https://gist.github.com/patpohler/36c731113fd113418c0806f62cbb9e30)
 
 ## Other Resources
 
