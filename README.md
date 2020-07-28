@@ -51,3 +51,4 @@
 ## Other Resources
 
 - [Free Icons - Noun Project](https://thenounproject.com/)
+- [Sudoku Algorithm Visualizer (Python)](https://github.com/Mercrist/Sudoku-GUI)
