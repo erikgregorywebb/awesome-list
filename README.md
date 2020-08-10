@@ -19,7 +19,7 @@
 - [2020 SBA Paycheck Protection Program Loans](https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data)
 - [Open Compensation Data | Levels.fyi](https://www.levels.fyi/)
 - [Data (Science) Job Postings](https://www.reddit.com/r/datasets/comments/hrut53/data_science_jobs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-
+- [Hedge Fund Letter Archive](https://miltonfmr.com/hedge-fund-letters/)
 
 ## Visualizations
 
