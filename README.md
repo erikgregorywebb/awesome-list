@@ -31,6 +31,8 @@
 - [Visual Vocabulary: Tableau Edition](https://public.tableau.com/views/VisualVocabulary/VisualVocabulary?%3Aembed=y&%3Adisplay_count=yes&publish=yes&%3AshowVizHome=no)
 - [Political Party Demographics](https://www.people-press.org/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/)
 - [Robintrack](https://robintrack.net/leaderboard)
+- [NBA Salaries (Zak Geis)](https://public.tableau.com/profile/zakgeis#!/vizhome/SalariesoftheNBA/NBASalaries)
+- [Music Genre Ebb & Flow (Robert Janezic)](https://public.tableau.com/profile/robert.janezic#!/vizhome/Feedbackv2/EbbFlow)
 
 ## Courses & Tutorials
 
