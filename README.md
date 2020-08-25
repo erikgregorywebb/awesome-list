@@ -20,6 +20,7 @@
 - [Open Compensation Data | Levels.fyi](https://www.levels.fyi/)
 - [Data (Science) Job Postings](https://www.reddit.com/r/datasets/comments/hrut53/data_science_jobs/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [Hedge Fund Letter Archive](https://miltonfmr.com/hedge-fund-letters/)
+- [Wikipedia List of Datasets for ML](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 
 ## Visualizations
 
