@@ -37,6 +37,9 @@
 - [McBroken](https://mcbroken.com/)
 - [Commuter Regions of the United States](https://www.reddit.com/r/dataisbeautiful/comments/kqrvz0/commuter_regions_of_the_united_states_oc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
+## AI
+- [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+
 ## Courses & Tutorials
 
 - [Data Visualization by Dr. Andrew Heiss](https://datavizm20.classes.andrewheiss.com/content/)
