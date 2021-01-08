@@ -56,6 +56,9 @@
 - [Pokémon TCG Developers](https://pokemontcg.io/)
 - [List of Real Estate APIs](https://gist.github.com/patpohler/36c731113fd113418c0806f62cbb9e30)
 
+## Videos
+- [Boston Dynamics Dancing Robots](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+
 ## Other Resources
 
 - [Free Icons - Noun Project](https://thenounproject.com/)
