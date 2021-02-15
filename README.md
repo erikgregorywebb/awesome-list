@@ -49,6 +49,7 @@
 - [Tableau DS Certification](https://www.udemy.com/course/tableau-desktop-specialist-certification/)
 - [Algo Trading Strategy Library](https://www.quantconnect.com/tutorials/strategy-library/strategy-library)
 - [MIT Data Science Visual Study Guides](https://github.com/shervinea/mit-15-003-data-science-tools)
+- [Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 
 ## Packages & Libraries
 
