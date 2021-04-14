@@ -71,3 +71,4 @@
 - [Sudoku Algorithm Visualizer (Python)](https://github.com/Mercrist/Sudoku-GUI)
 - [Kellogg Super Bowl Ad Review](https://www.kellogg.northwestern.edu/news-events/super-bowl/results.aspx)
 - [Social Explorer Census Data Dictionary](https://www.socialexplorer.com/data/ACS2010_5yr/metadata/?ds=ACS10_5yr)
+- [Explained Visually (EV)](https://setosa.io/ev/)
