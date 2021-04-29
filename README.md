@@ -50,6 +50,7 @@
 - [Algo Trading Strategy Library](https://www.quantconnect.com/tutorials/strategy-library/strategy-library)
 - [MIT Data Science Visual Study Guides](https://github.com/shervinea/mit-15-003-data-science-tools)
 - [Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+- [Tableau Magic](https://tableau.toanhoang.com/)
 
 ## Packages & Libraries
 
