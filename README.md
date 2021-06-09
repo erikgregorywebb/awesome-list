@@ -39,6 +39,7 @@
 - [Reinventing pizza franchising with tech and transparency](https://dodopizzastory.com/)
 - [Mozilla 2020 Internet Health Report](https://2020.internethealthreport.org/slideshow-internet-health/#1)
 - [Falx: Visualization by Example](https://rise.cs.berkeley.edu/blog/falx-visualization-by-example/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_336)
+- [Mormon Billions](https://mormonbillions.com/)
 
 ## AI
 - [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
