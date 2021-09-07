@@ -42,6 +42,7 @@
 - [Falx: Visualization by Example](https://rise.cs.berkeley.edu/blog/falx-visualization-by-example/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_336)
 - [Mormon Billions](https://mormonbillions.com/)
 - [Weather Spark](https://weatherspark.com/)
+- [Crypto Fear & Greed Index](https://alternative.me/crypto/)
 
 ## AI
 - [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
