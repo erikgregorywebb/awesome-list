@@ -22,6 +22,7 @@
 - [Hedge Fund Letter Archive](https://miltonfmr.com/hedge-fund-letters/)
 - [Wikipedia List of Datasets for ML](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [IPO Filings](https://www.ipomonitor.com/pages/ipo-filings.html?start=1&max=5000)
+- [The Complete List Of Unicorn Companies by CB Insights](https://www.cbinsights.com/research-unicorn-companies)
 
 ## Visualizations
 
