@@ -23,6 +23,7 @@
 - [Wikipedia List of Datasets for ML](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - [IPO Filings](https://www.ipomonitor.com/pages/ipo-filings.html?start=1&max=5000)
 - [The Complete List Of Unicorn Companies by CB Insights](https://www.cbinsights.com/research-unicorn-companies)
+- [Niche Places to Live](https://www.niche.com/places-to-live/)
 
 ## Visualizations
 
@@ -44,7 +45,6 @@
 - [Mormon Billions](https://mormonbillions.com/)
 - [Weather Spark](https://weatherspark.com/)
 - [Crypto Fear & Greed Index](https://alternative.me/crypto/)
-- [Niche Places to Live](https://www.niche.com/places-to-live/)
 
 ## AI
 - [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
