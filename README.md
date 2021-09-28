@@ -44,6 +44,7 @@
 - [Mormon Billions](https://mormonbillions.com/)
 - [Weather Spark](https://weatherspark.com/)
 - [Crypto Fear & Greed Index](https://alternative.me/crypto/)
+- [Niche Places to Live](https://www.niche.com/places-to-live/)
 
 ## AI
 - [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
