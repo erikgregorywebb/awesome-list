@@ -45,6 +45,7 @@
 - [Mormon Billions](https://mormonbillions.com/)
 - [Weather Spark](https://weatherspark.com/)
 - [Crypto Fear & Greed Index](https://alternative.me/crypto/)
+- [83 Charts to Describe the Hidden Financial Lives of Working Americans](https://static1.squarespace.com/static/53d008ede4b0833aa2ab2eb9/t/54878a58e4b0f57918c24718/1418168930635/83charts.pdf)
 
 ## AI
 - [OpenAI's DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
