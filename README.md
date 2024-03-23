@@ -23,6 +23,7 @@
 - [IPO Filings](https://www.ipomonitor.com/pages/ipo-filings.html?start=1&max=5000)
 - [The Complete List Of Unicorn Companies by CB Insights](https://www.cbinsights.com/research-unicorn-companies)
 - [Niche Places to Live](https://www.niche.com/places-to-live/)
+- [General Conference Corpus](https://www.lds-general-conference.org/)
 
 ## Visualizations
 
