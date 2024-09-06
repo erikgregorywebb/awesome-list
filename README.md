@@ -24,6 +24,7 @@
 - [The Complete List Of Unicorn Companies by CB Insights](https://www.cbinsights.com/research-unicorn-companies)
 - [Niche Places to Live](https://www.niche.com/places-to-live/)
 - [General Conference Corpus](https://www.lds-general-conference.org/)
+- [Storytelling with data public data list](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit)
 
 ## Visualizations
 
